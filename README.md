@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello 👋
 
-I am a student at Kansas State University majoring in mathematics and statistics and data sciece. 
+I am a student at Kansas State University majoring in mathematics and statistics & data sciece. 
 I plan to pursue a PhD in mathematics after my undergraduate degree.
 
-My current interests lie in Analysis, but I am still very young in my mathematical journey and this my interests are subject to change.
+My current interests lie in analysis, but I am still very young in my mathematical journey and this is subject to change.
 
-As of Febuary, I am working on a project in fractional Sobolev spaces.
+As of Febuary 2026, I am working on a project in fractional Sobolev spaces.
 <!--
 **erikhuter/erikhuter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
